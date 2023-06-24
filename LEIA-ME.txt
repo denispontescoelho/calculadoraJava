@@ -1,0 +1,6 @@
+LEIA-ME
+
+Classes para criação de calculadora em Java
+
+1- Modifique o nome do package 
+2- Instale a biblioteca para o Java GUI
